@@ -5,7 +5,7 @@ CakeIn&Out - It's all about Cake
 AUTHOR:
 DESIGNED & DEVELOPED by CakeIn&Out Company
 
-Websites: https://gettemplates.co https://freehtml5.co/
+Websites: https://cakeinandout.com
 
 
 CREDITS:
