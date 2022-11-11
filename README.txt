@@ -10,9 +10,10 @@ DESIGNED & DEVELOPED by CakeIn&Out Company
 
 Websites: https://cakeinandout.me
 
-https://user-images.githubusercontent.com/101874897/201294100-801b4d5b-7214-4529-b4e9-6a66b2c50fd0.jpg
-https://user-images.githubusercontent.com/101874897/201294109-6624bdcd-5731-4eb3-8379-689065c9cbc3.jpg
-https://user-images.githubusercontent.com/101874897/201294113-fa8a01a1-5953-47a8-8102-33445fae0495.gif
+![2](https://user-images.githubusercontent.com/101874897/201295133-bad7b7a2-1206-4a03-964e-8ce1e72c76f5.jpg)
+![1](https://user-images.githubusercontent.com/101874897/201295143-e5ecc84c-8e45-4082-8cc5-42c6ea3c566b.jpg)
+![cakeinandoutgif](https://user-images.githubusercontent.com/101874897/201295160-92f31612-fd86-41cd-b82b-d0caaa3a3204.gif)
+
 
 CREDITS:
 http://getbootstrap.com/
